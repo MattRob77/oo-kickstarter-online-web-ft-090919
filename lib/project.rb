@@ -1,2 +1,2 @@
 class Project 
-  attr
+  attr_reader :
